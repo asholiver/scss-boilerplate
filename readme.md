@@ -2,6 +2,8 @@
 
 I am a boilerplate for SCSS
 
+`ctrl c`
+
 `npm install`
 
 `npm start`
